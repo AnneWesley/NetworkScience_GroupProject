@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="mansa_1" label="mansa_1" />
+      <node id="mansa_2" label="mansa_2" />
+      <node id="mansa_3" label="mansa_3" />
+      <node id="mansa_4" label="mansa_4" />
+      <node id="mansa_5" label="mansa_5" />
+      <node id="mansa_6" label="mansa_6" />
+      <node id="mansa_7" label="mansa_7" />
+      <node id="mansa_8" label="mansa_8" />
+      <node id="mansa_9" label="mansa_9" />
+      <node id="mansa_10" label="mansa_10" />
+      <node id="mansa_11" label="mansa_11" />
+      <node id="mansa_12" label="mansa_12" />
+    </nodes>
+    <edges>
+      <edge source="mansa_1" target="mansa_2" id="0" weight="0.4697037136826906">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="mansa_3" id="1" weight="0.40898294750147796">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="mansa_12" id="2" weight="0.42737376109439534">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_2" target="mansa_3" id="3" weight="0.4421105106166517">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_5" target="mansa_6" id="4" weight="0.42963661189142877">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_6" target="mansa_7" id="5" weight="0.43467193031377743">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="mansa_12" id="6" weight="0.4276463543402278">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

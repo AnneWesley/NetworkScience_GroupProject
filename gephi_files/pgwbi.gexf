@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="pgwbi_1" label="pgwbi_1" />
+      <node id="pgwbi_2" label="pgwbi_2" />
+      <node id="pgwbi_3" label="pgwbi_3" />
+      <node id="pgwbi_4" label="pgwbi_4" />
+      <node id="pgwbi_5" label="pgwbi_5" />
+      <node id="pgwbi_6" label="pgwbi_6" />
+      <node id="pgwbi_7" label="pgwbi_7" />
+      <node id="pgwbi_8" label="pgwbi_8" />
+      <node id="pgwbi_9" label="pgwbi_9" />
+      <node id="pgwbi_10" label="pgwbi_10" />
+      <node id="pgwbi_11" label="pgwbi_11" />
+      <node id="pgwbi_12" label="pgwbi_12" />
+      <node id="pgwbi_13" label="pgwbi_13" />
+      <node id="pgwbi_14" label="pgwbi_14" />
+      <node id="pgwbi_15" label="pgwbi_15" />
+      <node id="pgwbi_16" label="pgwbi_16" />
+      <node id="pgwbi_17" label="pgwbi_17" />
+      <node id="pgwbi_18" label="pgwbi_18" />
+      <node id="pgwbi_19" label="pgwbi_19" />
+      <node id="pgwbi_20" label="pgwbi_20" />
+      <node id="pgwbi_21" label="pgwbi_21" />
+      <node id="pgwbi_22" label="pgwbi_22" />
+    </nodes>
+    <edges>
+      <edge source="pgwbi_1" target="pgwbi_6" id="0" weight="0.41959190451146805">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_9" id="1" weight="0.6162777379790675">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_15" id="2" weight="0.4238328266394196">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_16" id="3" weight="0.47605482952828176">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_19" id="4" weight="0.45477499727929327">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_20" id="5" weight="0.5554081106584241">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_2" target="pgwbi_13" id="6" weight="0.44266966223974585">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_3" target="pgwbi_7" id="7" weight="0.7110085915482339">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_3" target="pgwbi_17" id="8" weight="0.46633192220877784">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_4" target="pgwbi_18" id="9" weight="0.4366234350597013">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_8" id="10" weight="0.4391064453610979">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_17" id="11" weight="0.6132187081914114">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_18" id="12" weight="0.4313333894269585">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_19" id="13" weight="0.4268370757683121">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_12" id="14" weight="0.5182737229222791">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_16" id="15" weight="0.6353988115734278">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_21" id="16" weight="0.4241041894347785">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_7" target="pgwbi_17" id="17" weight="0.46528609138683286">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_8" target="pgwbi_17" id="18" weight="0.5330317910507896">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_8" target="pgwbi_19" id="19" weight="0.5273366811022809">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_15" id="20" weight="0.4276814352455396">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_16" id="21" weight="0.4002186555142857">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_19" id="22" weight="0.4050122247996371">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_20" id="23" weight="0.48975804065771483">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="pgwbi_16" id="24" weight="0.5362888538993427">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="pgwbi_20" id="25" weight="0.40403255918901126">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="pgwbi_21" id="26" weight="0.4428215284482571">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_15" target="pgwbi_16" id="27" weight="0.40108536849905196">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_15" target="pgwbi_20" id="28" weight="0.41239666598695657">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_16" target="pgwbi_21" id="29" weight="0.4617540426905672">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_17" target="pgwbi_19" id="30" weight="0.51589877212696">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_18" target="pgwbi_19" id="31" weight="0.4217654019044057">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_19" target="pgwbi_20" id="32" weight="0.42505286497489503">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

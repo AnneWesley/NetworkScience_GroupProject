@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="who5_1" label="who5_1" />
+      <node id="who5_2" label="who5_2" />
+      <node id="who5_3" label="who5_3" />
+      <node id="who5_4" label="who5_4" />
+      <node id="who5_5" label="who5_5" />
+    </nodes>
+    <edges>
+      <edge source="who5_1" target="who5_2" id="0" weight="0.5852944515930524">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_3" id="1" weight="0.4235207116880193">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_4" id="2" weight="0.40481684594996387">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="who5_4" id="3" weight="0.5266548487179986">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

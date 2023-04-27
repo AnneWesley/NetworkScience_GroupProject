@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="sf36_13" label="sf36_13" />
+      <node id="sf36_14" label="sf36_14" />
+      <node id="sf36_15" label="sf36_15" />
+      <node id="sf36_16" label="sf36_16" />
+      <node id="sf36_17" label="sf36_17" />
+      <node id="sf36_18" label="sf36_18" />
+      <node id="sf36_19" label="sf36_19" />
+      <node id="sf36_20" label="sf36_20" />
+      <node id="sf36_21" label="sf36_21" />
+      <node id="sf36_22" label="sf36_22" />
+      <node id="sf36_23" label="sf36_23" />
+      <node id="sf36_24" label="sf36_24" />
+      <node id="sf36_25" label="sf36_25" />
+      <node id="sf36_26" label="sf36_26" />
+      <node id="sf36_27" label="sf36_27" />
+      <node id="sf36_28" label="sf36_28" />
+      <node id="sf36_29" label="sf36_29" />
+      <node id="sf36_30" label="sf36_30" />
+      <node id="sf36_31" label="sf36_31" />
+      <node id="sf36_32" label="sf36_32" />
+      <node id="sf36_1" label="sf36_1" />
+      <node id="sf36_2" label="sf36_2" />
+      <node id="sf36_3_" label="sf36_3_" />
+      <node id="sf36_4" label="sf36_4" />
+      <node id="sf36_5" label="sf36_5" />
+      <node id="sf36_6" label="sf36_6" />
+      <node id="sf36_7" label="sf36_7" />
+      <node id="sf36_8" label="sf36_8" />
+      <node id="sf36_9" label="sf36_9" />
+      <node id="sf36_10" label="sf36_10" />
+      <node id="sf36_11" label="sf36_11" />
+      <node id="sf36_12" label="sf36_12" />
+      <node id="sf36_33" label="sf36_33" />
+      <node id="sf36_34" label="sf36_34" />
+      <node id="sf36_35" label="sf36_35" />
+      <node id="sf36_36" label="sf36_36" />
+    </nodes>
+    <edges>
+      <edge source="sf36_13" target="sf36_14" id="0" weight="0.4849295366824861">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_13" target="sf36_15" id="1" weight="0.5618893172552946">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_13" target="sf36_16" id="2" weight="0.5159937956931534">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_15" id="3" weight="0.5266028655008106">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_16" id="4" weight="0.5794657035832294">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_18" id="5" weight="0.40539610712830215">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_15" target="sf36_16" id="6" weight="0.5629439273626934">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_18" id="7" weight="0.6056588248228287">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_19" id="8" weight="0.6377634379223486">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_24" id="9" weight="0.4221547904607104">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_25" id="10" weight="0.4892107474465918">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_28" id="11" weight="0.4878302953328574">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_29" id="12" weight="0.44462988099469036">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_31" id="13" weight="0.4267929446835005">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_17" target="sf36_32" id="14" weight="0.4570899321025452">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_19" id="15" weight="0.5690640761187762">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_24" id="16" weight="0.43310126349950057">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_25" id="17" weight="0.5127018651377426">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_28" id="18" weight="0.5419034536324298">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_29" id="19" weight="0.460585581564028">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_31" id="20" weight="0.438148750256363">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_18" target="sf36_32" id="21" weight="0.47426793748298074">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_24" id="22" weight="0.4341910447854154">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_25" id="23" weight="0.5189856508246641">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_28" id="24" weight="0.5081375748015411">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_29" id="25" weight="0.44466112643340544">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_31" id="26" weight="0.4295946501862912">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_19" target="sf36_32" id="27" weight="0.4238548127947274">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_22" id="28" weight="0.4110536002250958">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_23" id="29" weight="0.43067795793837543">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_26" id="30" weight="0.5097526321399637">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_27" id="31" weight="0.4513003340812701">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_30" id="32" weight="0.487243983758089">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_34" id="33" weight="0.4155209273199088">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_20" target="sf36_36" id="34" weight="0.4197842555246312">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_22" id="35" weight="0.6993646674225129">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_1" id="36" weight="0.4711763125643548">
+        <attvalues>
+          <attvalue for="0" value="79" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_36" id="37" weight="0.4688644683652519">
+        <attvalues>
+          <attvalue for="0" value="79" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_26" id="38" weight="0.640749776212448">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_27" id="39" weight="0.8025828603844177">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_30" id="40" weight="0.6829709128549567">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_1" id="41" weight="0.49014187413842375">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_34" id="42" weight="0.46853541673865545">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_36" id="43" weight="0.5217240885093767">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_24" target="sf36_25" id="44" weight="0.6039420323948802">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_24" target="sf36_28" id="45" weight="0.6217017958544321">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_24" target="sf36_29" id="46" weight="0.560513046889581">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_24" target="sf36_31" id="47" weight="0.5409491152130075">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_24" target="sf36_32" id="48" weight="0.4575390375262817">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_25" target="sf36_28" id="49" weight="0.7919723087205031">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_25" target="sf36_29" id="50" weight="0.617620533139291">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_25" target="sf36_31" id="51" weight="0.5536832400120725">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_25" target="sf36_32" id="52" weight="0.5416622617123271">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_27" id="53" weight="0.6651588021921285">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_30" id="54" weight="0.7779105871334533">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_1" id="55" weight="0.43416006984970756">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_34" id="56" weight="0.45500292315166657">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_36" id="57" weight="0.44491095981017503">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_30" id="58" weight="0.6973776743364034">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_1" id="59" weight="0.552179180507477">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_34" id="60" weight="0.525394797087444">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_36" id="61" weight="0.5755992664331987">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_28" target="sf36_29" id="62" weight="0.6762147745973808">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_28" target="sf36_31" id="63" weight="0.6234419265822253">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_28" target="sf36_32" id="64" weight="0.5189041015407202">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_29" target="sf36_31" id="65" weight="0.8184363071023251">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_29" target="sf36_32" id="66" weight="0.5179347935921119">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_30" target="sf36_1" id="67" weight="0.439152964190643">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_30" target="sf36_34" id="68" weight="0.45176376360182396">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_30" target="sf36_36" id="69" weight="0.44746140346376057">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_31" target="sf36_32" id="70" weight="0.480502754163526">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_1" target="sf36_34" id="71" weight="0.663327123944581">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_1" target="sf36_36" id="72" weight="0.8113465369077244">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_4" id="73" weight="0.5477397132051047">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_6" id="74" weight="0.574197356420345">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_8" id="75" weight="0.5342518480995715">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_9" id="76" weight="0.5284389897416486">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_10" id="77" weight="0.40939687677470965">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_5" id="78" weight="0.6132674641714432">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_6" id="79" weight="0.4769935153318214">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_7" id="80" weight="0.458682668898444">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_8" id="81" weight="0.4470551018053793">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_9" id="82" weight="0.4861090766123815">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_10" id="83" weight="0.47393668706124537">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_11" id="84" weight="0.44891963957422215">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_6" id="85" weight="0.4406604358324826">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_7" id="86" weight="0.4876952856052431">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_8" id="87" weight="0.4135492807571161">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_9" id="88" weight="0.42127695271614607">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_10" id="89" weight="0.47647088620114425">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_11" id="90" weight="0.5388051387958747">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_12" id="91" weight="0.408152202365993">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_7" id="92" weight="0.5618713237579094">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_8" id="93" weight="0.5302526443994502">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_9" id="94" weight="0.5864175470809944">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_10" id="95" weight="0.5414748017347282">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_11" id="96" weight="0.42987879641635085">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_8" id="97" weight="0.47581900146486894">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_9" id="98" weight="0.4520204283066628">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_10" id="99" weight="0.5383796311247994">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_11" id="100" weight="0.6095569689203546">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_8" target="sf36_9" id="101" weight="0.4762840297487138">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_8" target="sf36_10" id="102" weight="0.4333448440603328">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_8" target="sf36_11" id="103" weight="0.4111361461545534">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_9" target="sf36_10" id="104" weight="0.6935549384422726">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_9" target="sf36_11" id="105" weight="0.5148197140603868">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_10" target="sf36_11" id="106" weight="0.7001146407301633">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_34" target="sf36_36" id="107" weight="0.7052430784653961">
+        <attvalues>
+          <attvalue for="0" value="104" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

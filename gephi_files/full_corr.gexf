@@ -1,0 +1,1507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="mansa_1" label="mansa_1" />
+      <node id="mansa_2" label="mansa_2" />
+      <node id="mansa_3" label="mansa_3" />
+      <node id="mansa_4" label="mansa_4" />
+      <node id="mansa_5" label="mansa_5" />
+      <node id="mansa_6" label="mansa_6" />
+      <node id="mansa_7" label="mansa_7" />
+      <node id="mansa_8" label="mansa_8" />
+      <node id="mansa_9" label="mansa_9" />
+      <node id="mansa_10" label="mansa_10" />
+      <node id="mansa_11" label="mansa_11" />
+      <node id="mansa_12" label="mansa_12" />
+      <node id="whoqol_1_1" label="whoqol_1_1" />
+      <node id="whoqol_2_1" label="whoqol_2_1" />
+      <node id="whoqol_3" label="whoqol_3" />
+      <node id="whoqol_4" label="whoqol_4" />
+      <node id="whoqol_5" label="whoqol_5" />
+      <node id="whoqol_6" label="whoqol_6" />
+      <node id="whoqol_7" label="whoqol_7" />
+      <node id="whoqol_8" label="whoqol_8" />
+      <node id="whoqol_9" label="whoqol_9" />
+      <node id="whoqol_10" label="whoqol_10" />
+      <node id="whoqol_11" label="whoqol_11" />
+      <node id="whoqol_12" label="whoqol_12" />
+      <node id="whoqol_13" label="whoqol_13" />
+      <node id="whoqol_14" label="whoqol_14" />
+      <node id="whoqol_15" label="whoqol_15" />
+      <node id="whoqol_16" label="whoqol_16" />
+      <node id="whoqol_17" label="whoqol_17" />
+      <node id="whoqol_18" label="whoqol_18" />
+      <node id="whoqol_19" label="whoqol_19" />
+      <node id="whoqol_20" label="whoqol_20" />
+      <node id="whoqol_21" label="whoqol_21" />
+      <node id="whoqol_22" label="whoqol_22" />
+      <node id="whoqol_23" label="whoqol_23" />
+      <node id="whoqol_24" label="whoqol_24" />
+      <node id="whoqol_25" label="whoqol_25" />
+      <node id="whoqol_26" label="whoqol_26" />
+      <node id="who5_1" label="who5_1" />
+      <node id="who5_2" label="who5_2" />
+      <node id="who5_3" label="who5_3" />
+      <node id="who5_4" label="who5_4" />
+      <node id="who5_5" label="who5_5" />
+      <node id="pgwbi_1" label="pgwbi_1" />
+      <node id="pgwbi_2" label="pgwbi_2" />
+      <node id="pgwbi_3" label="pgwbi_3" />
+      <node id="pgwbi_4" label="pgwbi_4" />
+      <node id="pgwbi_5" label="pgwbi_5" />
+      <node id="pgwbi_6" label="pgwbi_6" />
+      <node id="pgwbi_7" label="pgwbi_7" />
+      <node id="pgwbi_8" label="pgwbi_8" />
+      <node id="pgwbi_9" label="pgwbi_9" />
+      <node id="pgwbi_10" label="pgwbi_10" />
+      <node id="pgwbi_11" label="pgwbi_11" />
+      <node id="pgwbi_12" label="pgwbi_12" />
+      <node id="pgwbi_13" label="pgwbi_13" />
+      <node id="pgwbi_14" label="pgwbi_14" />
+      <node id="pgwbi_15" label="pgwbi_15" />
+      <node id="pgwbi_16" label="pgwbi_16" />
+      <node id="pgwbi_17" label="pgwbi_17" />
+      <node id="pgwbi_18" label="pgwbi_18" />
+      <node id="pgwbi_19" label="pgwbi_19" />
+      <node id="pgwbi_20" label="pgwbi_20" />
+      <node id="pgwbi_21" label="pgwbi_21" />
+      <node id="pgwbi_22" label="pgwbi_22" />
+      <node id="sf36_13" label="sf36_13" />
+      <node id="sf36_14" label="sf36_14" />
+      <node id="sf36_15" label="sf36_15" />
+      <node id="sf36_16" label="sf36_16" />
+      <node id="sf36_17" label="sf36_17" />
+      <node id="sf36_18" label="sf36_18" />
+      <node id="sf36_19" label="sf36_19" />
+      <node id="sf36_20" label="sf36_20" />
+      <node id="sf36_21" label="sf36_21" />
+      <node id="sf36_22" label="sf36_22" />
+      <node id="sf36_23" label="sf36_23" />
+      <node id="sf36_24" label="sf36_24" />
+      <node id="sf36_25" label="sf36_25" />
+      <node id="sf36_26" label="sf36_26" />
+      <node id="sf36_27" label="sf36_27" />
+      <node id="sf36_28" label="sf36_28" />
+      <node id="sf36_29" label="sf36_29" />
+      <node id="sf36_30" label="sf36_30" />
+      <node id="sf36_31" label="sf36_31" />
+      <node id="sf36_32" label="sf36_32" />
+      <node id="sf36_1" label="sf36_1" />
+      <node id="sf36_2" label="sf36_2" />
+      <node id="sf36_3_" label="sf36_3_" />
+      <node id="sf36_4" label="sf36_4" />
+      <node id="sf36_5" label="sf36_5" />
+      <node id="sf36_6" label="sf36_6" />
+      <node id="sf36_7" label="sf36_7" />
+      <node id="sf36_8" label="sf36_8" />
+      <node id="sf36_9" label="sf36_9" />
+      <node id="sf36_10" label="sf36_10" />
+      <node id="sf36_11" label="sf36_11" />
+      <node id="sf36_12" label="sf36_12" />
+      <node id="sf36_33" label="sf36_33" />
+      <node id="sf36_34" label="sf36_34" />
+      <node id="sf36_35" label="sf36_35" />
+      <node id="sf36_36" label="sf36_36" />
+      <node id="whoqol_score" label="whoqol_score" />
+    </nodes>
+    <edges>
+      <edge source="mansa_1" target="mansa_2" id="0" weight="0.5729782766693812">
+        <attvalues>
+          <attvalue for="0" value="159" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="mansa_3" id="1" weight="0.48890906503564874">
+        <attvalues>
+          <attvalue for="0" value="159" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="mansa_12" id="2" weight="0.41751515577413256">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="whoqol_1_1" id="3" weight="0.4482053552757751">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="whoqol_5" id="4" weight="0.4637537687527256">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="whoqol_6" id="5" weight="0.42724292874786735">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="whoqol_19" id="6" weight="0.4188884864531595">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="pgwbi_1" id="7" weight="0.44468502847593977">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="pgwbi_9" id="8" weight="0.5312783747911917">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_1" target="whoqol_score" id="9" weight="0.47392684299620863">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_2" target="mansa_3" id="10" weight="0.4644972505863444">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_3" target="whoqol_12" id="11" weight="0.6234131485853294">
+        <attvalues>
+          <attvalue for="0" value="228" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="mansa_5" id="12" weight="0.4674350408069431">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="mansa_10" id="13" weight="0.40715200457956346">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="whoqol_6" id="14" weight="0.42076833159285554">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="whoqol_22" id="15" weight="0.5965929216569482">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="pgwbi_9" id="16" weight="0.4280647533729124">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_4" target="whoqol_score" id="17" weight="0.4400208691932787">
+        <attvalues>
+          <attvalue for="0" value="155" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_5" target="mansa_6" id="18" weight="0.4643928836679458">
+        <attvalues>
+          <attvalue for="0" value="72" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_6" target="mansa_7" id="19" weight="0.4432760877534243">
+        <attvalues>
+          <attvalue for="0" value="218" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_6" target="whoqol_23" id="20" weight="0.5152054758165235">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_6" target="whoqol_score" id="21" weight="0.4252107799375629">
+        <attvalues>
+          <attvalue for="0" value="217" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_7" target="whoqol_8" id="22" weight="0.5953927426204428">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_9" target="whoqol_21" id="23" weight="0.8172795320948539">
+        <attvalues>
+          <attvalue for="0" value="89" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_10" target="whoqol_20" id="24" weight="0.42344867945791764">
+        <attvalues>
+          <attvalue for="0" value="244" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_10" target="whoqol_score" id="25" weight="0.43382633168233004">
+        <attvalues>
+          <attvalue for="0" value="226" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="mansa_12" id="26" weight="0.45122955874563886">
+        <attvalues>
+          <attvalue for="0" value="169" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="whoqol_2_1" id="27" weight="0.6361402827130248">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="who5_3" id="28" weight="0.4060692566339427">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="pgwbi_13" id="29" weight="0.45086591298167605">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="pgwbi_16" id="30" weight="0.40838452352066684">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="sf36_35" id="31" weight="0.4062057547698461">
+        <attvalues>
+          <attvalue for="0" value="208" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_11" target="whoqol_score" id="32" weight="0.5056815128529774">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_1_1" id="33" weight="0.4014266717829871">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_5" id="34" weight="0.4373224609148271">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_6" id="35" weight="0.41829209660499117">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_7" id="36" weight="0.4622414838053286">
+        <attvalues>
+          <attvalue for="0" value="201" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_19" id="37" weight="0.44032034290512456">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="who5_2" id="38" weight="0.4002575011838226">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="pgwbi_18" id="39" weight="0.4434588589641452">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge source="mansa_12" target="whoqol_score" id="40" weight="0.48672088881996284">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_2_1" id="41" weight="0.4950908927787522">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_5" id="42" weight="0.4989144106993247">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_19" id="43" weight="0.4437631567549146">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="who5_1" id="44" weight="0.41783108502817956">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="who5_2" id="45" weight="0.40564189741674417">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="pgwbi_1" id="46" weight="0.46308249251342476">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="pgwbi_9" id="47" weight="0.45946325767862306">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_score" id="48" weight="0.5867784266646188">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="whoqol_10" id="49" weight="0.4000733821640482">
+        <attvalues>
+          <attvalue for="0" value="194" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="whoqol_19" id="50" weight="0.4236978194564402">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="who5_3" id="51" weight="0.40479809495406033">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="pgwbi_1" id="52" weight="0.41172954736162304">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="pgwbi_2" id="53" weight="0.4451646908870929">
+        <attvalues>
+          <attvalue for="0" value="83" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="pgwbi_6" id="54" weight="0.43655073497253444">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="pgwbi_13" id="55" weight="0.45704247572850604">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="pgwbi_16" id="56" weight="0.46234048517566484">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="whoqol_score" id="57" weight="0.5934794862261914">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="whoqol_4" id="58" weight="0.5145347440681094">
+        <attvalues>
+          <attvalue for="0" value="253" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="pgwbi_2" id="59" weight="0.543954390790759">
+        <attvalues>
+          <attvalue for="0" value="105" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="sf36_3_" id="60" weight="0.4225163577022207">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="sf36_8" id="61" weight="0.4088812745928915">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_6" id="62" weight="0.7143037814813544">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_19" id="63" weight="0.531562208583056">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_20" id="64" weight="0.4144715976324768">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="who5_1" id="65" weight="0.43537104380219754">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="who5_2" id="66" weight="0.40015130961205353">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="pgwbi_1" id="67" weight="0.5062162483472467">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="pgwbi_9" id="68" weight="0.5589096237718953">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_score" id="69" weight="0.5921452225678074">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="whoqol_19" id="70" weight="0.5090400503602471">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="who5_5" id="71" weight="0.41845799765039843">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="pgwbi_1" id="72" weight="0.4116939524024783">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="pgwbi_9" id="73" weight="0.503884761741156">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="whoqol_score" id="74" weight="0.5685947043292577">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_8" id="75" weight="0.40751977732080824">
+        <attvalues>
+          <attvalue for="0" value="274" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_9" id="76" weight="0.458884086363612">
+        <attvalues>
+          <attvalue for="0" value="274" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_10" id="77" weight="0.44266445002814725">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_19" id="78" weight="0.475648784858361">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="pgwbi_18" id="79" weight="0.41123631651885023">
+        <attvalues>
+          <attvalue for="0" value="109" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_score" id="80" weight="0.5813400273019137">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_8" target="whoqol_9" id="81" weight="0.553935942922159">
+        <attvalues>
+          <attvalue for="0" value="274" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_8" target="whoqol_score" id="82" weight="0.46787976536771886">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_9" target="whoqol_19" id="83" weight="0.40277622494042487">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_9" target="whoqol_23" id="84" weight="0.42002873522866807">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_9" target="whoqol_score" id="85" weight="0.5920090437010214">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="whoqol_11" id="86" weight="0.44086459111471743">
+        <attvalues>
+          <attvalue for="0" value="203" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="whoqol_17" id="87" weight="0.4438142911924354">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="who5_3" id="88" weight="0.42088353307053467">
+        <attvalues>
+          <attvalue for="0" value="194" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="pgwbi_6" id="89" weight="0.47277792378182704">
+        <attvalues>
+          <attvalue for="0" value="194" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="pgwbi_16" id="90" weight="0.4395490868837683">
+        <attvalues>
+          <attvalue for="0" value="194" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="pgwbi_21" id="91" weight="0.4269974564184586">
+        <attvalues>
+          <attvalue for="0" value="133" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="sf36_29" id="92" weight="0.40348298998132265">
+        <attvalues>
+          <attvalue for="0" value="133" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="whoqol_score" id="93" weight="0.5940090363288607">
+        <attvalues>
+          <attvalue for="0" value="134" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_11" target="whoqol_19" id="94" weight="0.46813093657394317">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_11" target="whoqol_score" id="95" weight="0.505103336826778">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_12" target="whoqol_score" id="96" weight="0.5037290254933107">
+        <attvalues>
+          <attvalue for="0" value="252" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_13" target="whoqol_25" id="97" weight="0.4093404571232717">
+        <attvalues>
+          <attvalue for="0" value="248" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_13" target="whoqol_score" id="98" weight="0.4882619254937319">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_14" target="whoqol_score" id="99" weight="0.4812186520840268">
+        <attvalues>
+          <attvalue for="0" value="192" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_15" target="whoqol_17" id="100" weight="0.41485563957951793">
+        <attvalues>
+          <attvalue for="0" value="231" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_15" target="pgwbi_10" id="101" weight="0.4615402374021563">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_15" target="sf36_9" id="102" weight="0.40172109046662485">
+        <attvalues>
+          <attvalue for="0" value="237" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_15" target="whoqol_score" id="103" weight="0.4590824857561137">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="who5_4" id="104" weight="0.5378265096494421">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="pgwbi_6" id="105" weight="0.42232253739012376">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="pgwbi_12" id="106" weight="0.5856779345042402">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="pgwbi_16" id="107" weight="0.4123730722365114">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="sf36_31" id="108" weight="0.4091125436389735">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_16" target="whoqol_score" id="109" weight="0.43595449277113474">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_17" target="whoqol_18" id="110" weight="0.6400264852532097">
+        <attvalues>
+          <attvalue for="0" value="214" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_17" target="whoqol_19" id="111" weight="0.4313902008304389">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_17" target="whoqol_score" id="112" weight="0.6249640616181076">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_18" target="whoqol_19" id="113" weight="0.4682135434498265">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_18" target="whoqol_score" id="114" weight="0.6418649623944161">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="whoqol_20" id="115" weight="0.4794418118940626">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="who5_1" id="116" weight="0.43668231121936174">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="who5_2" id="117" weight="0.45725039385028504">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="pgwbi_1" id="118" weight="0.4531944774177843">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="pgwbi_9" id="119" weight="0.4978092886846714">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="pgwbi_16" id="120" weight="0.4010663474478623">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="whoqol_score" id="121" weight="0.6827854426470094">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_21" id="122" weight="0.44154555375990273">
+        <attvalues>
+          <attvalue for="0" value="156" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_22" id="123" weight="0.5096412571028758">
+        <attvalues>
+          <attvalue for="0" value="244" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_23" id="124" weight="0.4003377450905743">
+        <attvalues>
+          <attvalue for="0" value="184" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="who5_2" id="125" weight="0.4020549615915613">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="pgwbi_9" id="126" weight="0.4655086629919041">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_score" id="127" weight="0.5956700122941401">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_21" target="pgwbi_9" id="128" weight="0.42254067358942143">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_21" target="whoqol_score" id="129" weight="0.44257379377788064">
+        <attvalues>
+          <attvalue for="0" value="268" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_22" target="whoqol_score" id="130" weight="0.5504635933626449">
+        <attvalues>
+          <attvalue for="0" value="226" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_23" target="whoqol_24" id="131" weight="0.4175250449187008">
+        <attvalues>
+          <attvalue for="0" value="128" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_23" target="whoqol_25" id="132" weight="0.45405754339557747">
+        <attvalues>
+          <attvalue for="0" value="128" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_23" target="whoqol_score" id="133" weight="0.5674566635824556">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_24" target="whoqol_25" id="134" weight="0.5277700247806604">
+        <attvalues>
+          <attvalue for="0" value="128" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_24" target="whoqol_score" id="135" weight="0.5500508083545051">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_25" target="whoqol_score" id="136" weight="0.512479680107189">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_2" id="137" weight="0.6174597481147807">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_3" id="138" weight="0.4728192361671802">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_4" id="139" weight="0.4276169505874379">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="who5_5" id="140" weight="0.41673680433329424">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="pgwbi_1" id="141" weight="0.6016114932353749">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="pgwbi_9" id="142" weight="0.5437672554260595">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="pgwbi_19" id="143" weight="0.43209825709543864">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="pgwbi_20" id="144" weight="0.5370522347320162">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_1" target="whoqol_score" id="145" weight="0.4767100543372333">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_1" id="146" weight="0.47516421784303087">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_8" id="147" weight="0.40620090152614974">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_9" id="148" weight="0.4504201150040509">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_17" id="149" weight="0.40778933321976535">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_19" id="150" weight="0.47685463174579457">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="pgwbi_20" id="151" weight="0.4463477905976556">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_2" target="whoqol_score" id="152" weight="0.499837525389969">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="who5_4" id="153" weight="0.5171645507796503">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="pgwbi_1" id="154" weight="0.4330265275742542">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="pgwbi_6" id="155" weight="0.5865781193280457">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="pgwbi_16" id="156" weight="0.626433625840318">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="pgwbi_20" id="157" weight="0.4046273424110686">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_3" target="whoqol_score" id="158" weight="0.455511686608949">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="pgwbi_1" id="159" weight="0.4099141866816716">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="pgwbi_6" id="160" weight="0.5534616493379747">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="pgwbi_12" id="161" weight="0.670221166666254">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="pgwbi_16" id="162" weight="0.5443720638592969">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="pgwbi_21" id="163" weight="0.4079253815854577">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="sf36_31" id="164" weight="0.47993947124749875">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="who5_4" target="whoqol_score" id="165" weight="0.4130998662296982">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="who5_5" target="pgwbi_1" id="166" weight="0.41499125597041764">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge source="who5_5" target="pgwbi_15" id="167" weight="0.5526145599257885">
+        <attvalues>
+          <attvalue for="0" value="167" />
+        </attvalues>
+      </edge>
+      <edge source="who5_5" target="whoqol_score" id="168" weight="0.4467482179507709">
+        <attvalues>
+          <attvalue for="0" value="90" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_6" id="169" weight="0.4504930653173192">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_9" id="170" weight="0.6239597072018284">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_16" id="171" weight="0.48026025102508935">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_19" id="172" weight="0.4331261122402571">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="pgwbi_20" id="173" weight="0.5380330296755742">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_1" target="whoqol_score" id="174" weight="0.506131139958813">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_2" target="pgwbi_13" id="175" weight="0.46361645718577715">
+        <attvalues>
+          <attvalue for="0" value="83" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_2" target="pgwbi_16" id="176" weight="0.4567786586388421">
+        <attvalues>
+          <attvalue for="0" value="83" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_2" target="sf36_3_" id="177" weight="0.47702612243103326">
+        <attvalues>
+          <attvalue for="0" value="264" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_3" target="pgwbi_7" id="178" weight="0.6988734364162273">
+        <attvalues>
+          <attvalue for="0" value="176" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_3" target="pgwbi_17" id="179" weight="0.4115168973255128">
+        <attvalues>
+          <attvalue for="0" value="81" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_3" target="sf36_28" id="180" weight="0.6345369257354657">
+        <attvalues>
+          <attvalue for="0" value="176" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_8" id="181" weight="0.4418854408411396">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_17" id="182" weight="0.6148829762301529">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_18" id="183" weight="0.4239485839854067">
+        <attvalues>
+          <attvalue for="0" value="273" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="pgwbi_19" id="184" weight="0.42335641318967254">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_5" target="sf36_24" id="185" weight="0.6057521599708457">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_12" id="186" weight="0.5123689125646259">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_16" id="187" weight="0.63797749077904">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_19" id="188" weight="0.4437682007501717">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_20" id="189" weight="0.47288129510584337">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="pgwbi_21" id="190" weight="0.42740361464645">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="sf36_31" id="191" weight="0.4833517800255401">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_6" target="whoqol_score" id="192" weight="0.47773139296761136">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_7" target="pgwbi_17" id="193" weight="0.4168626617267675">
+        <attvalues>
+          <attvalue for="0" value="81" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_7" target="sf36_25" id="194" weight="0.4318336302686395">
+        <attvalues>
+          <attvalue for="0" value="176" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_7" target="sf36_28" id="195" weight="0.6919646618196789">
+        <attvalues>
+          <attvalue for="0" value="176" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_8" target="pgwbi_17" id="196" weight="0.5160629173875719">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_8" target="pgwbi_19" id="197" weight="0.532945185365476">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_15" id="198" weight="0.41126459017663414">
+        <attvalues>
+          <attvalue for="0" value="148" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_16" id="199" weight="0.41619607211436704">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_19" id="200" weight="0.41663495864036537">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="pgwbi_20" id="201" weight="0.4822556569773683">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_9" target="whoqol_score" id="202" weight="0.5730824807058408">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="pgwbi_16" id="203" weight="0.5166054377339909">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="pgwbi_21" id="204" weight="0.4362748692212724">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_12" target="sf36_31" id="205" weight="0.5227555521988495">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_13" target="pgwbi_16" id="206" weight="0.40727813466579665">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_13" target="whoqol_score" id="207" weight="0.46896717867251275">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_15" target="pgwbi_20" id="208" weight="0.40897032566744307">
+        <attvalues>
+          <attvalue for="0" value="171" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_16" target="pgwbi_21" id="209" weight="0.45316803519458687">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_16" target="sf36_29" id="210" weight="0.41453970099831855">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_16" target="sf36_31" id="211" weight="0.48425942539324973">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_16" target="whoqol_score" id="212" weight="0.46643920765401203">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_17" target="pgwbi_19" id="213" weight="0.4953938549962484">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_17" target="sf36_24" id="214" weight="0.5460867145385735">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_17" target="sf36_31" id="215" weight="0.41452889412729377">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_18" target="pgwbi_19" id="216" weight="0.4124288329306822">
+        <attvalues>
+          <attvalue for="0" value="102" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_19" target="pgwbi_20" id="217" weight="0.47006980853731745">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_19" target="sf36_31" id="218" weight="0.43346870080930683">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_20" target="whoqol_score" id="219" weight="0.4205215451308844">
+        <attvalues>
+          <attvalue for="0" value="207" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_21" target="sf36_29" id="220" weight="0.6342051002133894">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="pgwbi_21" target="sf36_31" id="221" weight="0.6518265712570226">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_13" target="sf36_14" id="222" weight="0.4666408178766578">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_13" target="sf36_15" id="223" weight="0.6628484539534822">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_13" target="sf36_16" id="224" weight="0.5120079302009255">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_15" id="225" weight="0.5526714388875373">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_16" id="226" weight="0.44037576687851787">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_14" target="sf36_18" id="227" weight="0.4103891238959803">
+        <attvalues>
+          <attvalue for="0" value="95" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_15" target="sf36_16" id="228" weight="0.6314534500118234">
+        <attvalues>
+          <attvalue for="0" value="233" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_22" id="229" weight="0.5907183204545849">
+        <attvalues>
+          <attvalue for="0" value="110" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_1" id="230" weight="0.4549767854446388">
+        <attvalues>
+          <attvalue for="0" value="219" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_21" target="sf36_36" id="231" weight="0.4524041398490695">
+        <attvalues>
+          <attvalue for="0" value="219" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_26" id="232" weight="0.49081504053066516">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_27" id="233" weight="0.7002166292140165">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_23" target="sf36_30" id="234" weight="0.45871244178939363">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_25" target="sf36_28" id="235" weight="0.5498342747828172">
+        <attvalues>
+          <attvalue for="0" value="176" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_27" id="236" weight="0.4534096239030509">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_26" target="sf36_30" id="237" weight="0.6356473828961464">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_30" id="238" weight="0.4641415473452688">
+        <attvalues>
+          <attvalue for="0" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_1" id="239" weight="0.4211703286572086">
+        <attvalues>
+          <attvalue for="0" value="84" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_27" target="sf36_36" id="240" weight="0.46071223315259935">
+        <attvalues>
+          <attvalue for="0" value="84" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_29" target="sf36_31" id="241" weight="0.5900950224071269">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_1" target="sf36_34" id="242" weight="0.5962525950443576">
+        <attvalues>
+          <attvalue for="0" value="272" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_1" target="sf36_36" id="243" weight="0.7724294993393458">
+        <attvalues>
+          <attvalue for="0" value="272" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_4" id="244" weight="0.5021713318093515">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_6" id="245" weight="0.5967390010582604">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_8" id="246" weight="0.5681505780876442">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_9" id="247" weight="0.544667935036208">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_3_" target="sf36_10" id="248" weight="0.4451667790361827">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_5" id="249" weight="0.7140843952025584">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_6" id="250" weight="0.500450063939739">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_7" id="251" weight="0.5156744260508905">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_8" id="252" weight="0.43549148912383934">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_9" id="253" weight="0.5728051962979795">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_10" id="254" weight="0.6039999359034884">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_4" target="sf36_11" id="255" weight="0.5172759823249119">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_7" id="256" weight="0.5385808655568234">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_9" id="257" weight="0.4532490028513759">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_10" id="258" weight="0.4636089994498069">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_11" id="259" weight="0.569772154126139">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_5" target="sf36_12" id="260" weight="0.5127855506785636">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_7" id="261" weight="0.5024348634888949">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_8" id="262" weight="0.5578505818692314">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_9" id="263" weight="0.6177551226280067">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_10" id="264" weight="0.6269461222062295">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_6" target="sf36_11" id="265" weight="0.4497238526178034">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_8" id="266" weight="0.47394192863373086">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_9" id="267" weight="0.5303680999157634">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_10" id="268" weight="0.5613422818814829">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_11" id="269" weight="0.6380005149831883">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_7" target="sf36_12" id="270" weight="0.6029832912830989">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_8" target="sf36_9" id="271" weight="0.5396852442078002">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_8" target="sf36_10" id="272" weight="0.448067910626016">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_9" target="sf36_10" id="273" weight="0.7671498352168463">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_9" target="sf36_11" id="274" weight="0.5082574368022975">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_10" target="sf36_11" id="275" weight="0.6192528218933366">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_11" target="sf36_12" id="276" weight="0.5390156457498921">
+        <attvalues>
+          <attvalue for="0" value="173" />
+        </attvalues>
+      </edge>
+      <edge source="sf36_34" target="sf36_36" id="277" weight="0.6237097886978628">
+        <attvalues>
+          <attvalue for="0" value="272" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

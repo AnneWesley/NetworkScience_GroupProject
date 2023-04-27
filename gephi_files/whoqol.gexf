@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-26">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="linkcomm" type="long" />
+    </attributes>
+    <nodes>
+      <node id="whoqol_1_1" label="whoqol_1_1" />
+      <node id="whoqol_2_1" label="whoqol_2_1" />
+      <node id="whoqol_3" label="whoqol_3" />
+      <node id="whoqol_4" label="whoqol_4" />
+      <node id="whoqol_5" label="whoqol_5" />
+      <node id="whoqol_6" label="whoqol_6" />
+      <node id="whoqol_7" label="whoqol_7" />
+      <node id="whoqol_8" label="whoqol_8" />
+      <node id="whoqol_9" label="whoqol_9" />
+      <node id="whoqol_10" label="whoqol_10" />
+      <node id="whoqol_11" label="whoqol_11" />
+      <node id="whoqol_12" label="whoqol_12" />
+      <node id="whoqol_13" label="whoqol_13" />
+      <node id="whoqol_14" label="whoqol_14" />
+      <node id="whoqol_15" label="whoqol_15" />
+      <node id="whoqol_16" label="whoqol_16" />
+      <node id="whoqol_17" label="whoqol_17" />
+      <node id="whoqol_18" label="whoqol_18" />
+      <node id="whoqol_19" label="whoqol_19" />
+      <node id="whoqol_20" label="whoqol_20" />
+      <node id="whoqol_21" label="whoqol_21" />
+      <node id="whoqol_22" label="whoqol_22" />
+      <node id="whoqol_23" label="whoqol_23" />
+      <node id="whoqol_24" label="whoqol_24" />
+      <node id="whoqol_25" label="whoqol_25" />
+      <node id="whoqol_26" label="whoqol_26" />
+    </nodes>
+    <edges>
+      <edge source="whoqol_1_1" target="whoqol_2_1" id="0" weight="0.4564524833188057">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_5" id="1" weight="0.5415220989464505">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_6" id="2" weight="0.41412625396358677">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_19" id="3" weight="0.4741705322334988">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_1_1" target="whoqol_20" id="4" weight="0.4205422162331901">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="whoqol_10" id="5" weight="0.41638041221485755">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_2_1" target="whoqol_19" id="6" weight="0.40815854591998507">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="whoqol_4" id="7" weight="0.5079235715317384">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_3" target="whoqol_15" id="8" weight="0.41522133014001983">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_6" id="9" weight="0.6898045051912082">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_19" id="10" weight="0.5227104214304626">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_5" target="whoqol_20" id="11" weight="0.4528524363683582">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="whoqol_19" id="12" weight="0.47546695732215455">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_6" target="whoqol_20" id="13" weight="0.40146691875054535">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_7" target="whoqol_10" id="14" weight="0.46883517314049705">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_8" target="whoqol_9" id="15" weight="0.509454108574456">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_9" target="whoqol_23" id="16" weight="0.4281839192976576">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="whoqol_11" id="17" weight="0.4049742342103247">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_10" target="whoqol_17" id="18" weight="0.4755805421674737">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_11" target="whoqol_19" id="19" weight="0.43112335261290674">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_15" target="whoqol_17" id="20" weight="0.44358919971601457">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_17" target="whoqol_18" id="21" weight="0.5414950696803521">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_18" target="whoqol_19" id="22" weight="0.44682860078894937">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="whoqol_20" id="23" weight="0.48033470531060624">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_19" target="whoqol_26" id="24" weight="0.4271484189696562">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_21" id="25" weight="0.4754563915199566">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_20" target="whoqol_22" id="26" weight="0.5320260116579596">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="whoqol_24" target="whoqol_25" id="27" weight="0.4750296043561928">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
